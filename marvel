@@ -1,0 +1,6 @@
+git init
+git add index.html
+git commit -m "Deploy da página do Avengers Doomsday"
+git branch -M main
+git remote add origin URL_DO_SEU_REPOSITORIO
+git push -u origin main
